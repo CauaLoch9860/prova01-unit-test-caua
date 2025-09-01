@@ -5,7 +5,7 @@ let utils;
 beforeEach(() => {
   utils = new Utilitarios();
 });
-
+ 
 describe("Classe Utilitarios", () => {
   describe("Manipulação de strings", () => {
     it("deve inverter string", () => {
